@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362673704437",
+    "project_id": "timeincode-94eb4",
+    "storage_bucket": "timeincode-94eb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362673704437:android:d829a9e0874482284c24bc",
+        "android_client_info": {
+          "package_name": "com.example.timeincode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGFWTBs-3oFx_-c7eNp-vh1JvhKxE-xQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_calender"
+        android:icon="@drawable/calender"
+        android:title="Calender"/>
+    <item
+        android:id="@+id/action_group"
+        android:icon="@drawable/group"
+        android:title="Friend"/>
+    <item
+        android:id="@+id/action_chatting"
+        android:icon="@drawable/chatting"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/account"
+        android:title="Account"/>
+</menu>
